@@ -2,7 +2,7 @@
 function display(val)
 {
 document.getElementById("result").value+=val
- }
+}
 //function for evaluation
 function solve()
 {
